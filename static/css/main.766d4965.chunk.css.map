@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,QAEE,QAAS,CACV,GAGC,gBAAiB,CAClB,KAGC,wBAA6B","file":"main.766d4965.chunk.css","sourcesContent":["// styles go here\nbody,\nh1 {\n  margin: 0;\n}\n\nh1 {\n  margin-left: 10px;\n}\n\n.App {\n  background-color: yellowgreen;\n}\n"]}
